@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jigar
 - 👀 I’m interested in learning new things everyday.
-- 🌱 I’m currently learning javascript.
+- 🌱 I’m currently learning and working on advanced aspects of web development; JavaScript, C#, NodeJs, PHP.
 - 📫 You can mail me at jigarmehta277@gmail.com
 
 <!---
