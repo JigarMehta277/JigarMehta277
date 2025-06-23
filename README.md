@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Jigar Mehta!
 Software Engineer | Full Stack Developer | Cloud & DevOps Enthusiast
 
-I'm a passionate software developer with 3+ years of experience in building scalable, secure, and user-centric applications. I specialize in full-stack development with a strong foundation in cloud-native architectures, DevOps automation, and healthcare tech integrations.
+I'm a passionate software developer with 2 years of experience in building scalable, secure, and user-centric applications. I specialize in full-stack development with a strong foundation in cloud-native architectures, DevOps automation, and healthcare tech integrations.
 
 ## 🔧 What I Work With
 **Full Stack Development:** Java, Spring Boot, React, Node.js, C#, ASP.NET, Python  
